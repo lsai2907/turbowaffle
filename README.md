@@ -39,5 +39,5 @@ Developing predictive models for microbial abundance based on climate projection
 Citation
 If using this research, please cite:
 
-Leo Sai, Xiaofeng Xu, David Lipson. Macroecology of Microbial Abundance in Soil and Aquatic Ecosystems Across the US (2025).
+Leo Sai, Xinhao Zhu, David Lipson, Xiaofeng Xu. Spatial Biogeography of Microbes in Soils vs. Aquatic Ecosystems in Major Biomes across US (2025).
 
